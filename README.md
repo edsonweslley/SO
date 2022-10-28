@@ -1,3 +1,3 @@
 ## Sistemas Operacionais
 
-Repositório referente à implementação dos códigos desenvolvidos durante a disciplina de Sistemas Operacionais na UFCG para estudo e exercício dos conceitos passados.
+Repositório criado para a implementação de códigos desenvolvidos durante a disciplina de Sistemas Operacionais do curso de Ciência da Computação pela UFCG para fim de estudos e exercícios dos conceitos passados.
